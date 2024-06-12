@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.5.4" created="2024-06-12 16:36" -->
+	<!-- generator="WordPress/6.5.4" created="2024-06-12 17:00" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -27,13 +27,13 @@
 
 <channel>
 	<title>My WordPress Website</title>
-	<link>https://playground.wordpress.net/scope:0.7767222833592975</link>
+	<link>https://playground.wordpress.net/scope:0.2973549087552592</link>
 	<description></description>
-	<pubDate>Wed, 12 Jun 2024 16:36:00 +0000</pubDate>
+	<pubDate>Wed, 12 Jun 2024 17:00:29 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>https://playground.wordpress.net/scope:0.7767222833592975</wp:base_site_url>
-	<wp:base_blog_url>https://playground.wordpress.net/scope:0.7767222833592975</wp:base_blog_url>
+	<wp:base_site_url>https://playground.wordpress.net/scope:0.2973549087552592</wp:base_site_url>
+	<wp:base_blog_url>https://playground.wordpress.net/scope:0.2973549087552592</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[admin@localhost.com]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
@@ -42,7 +42,7 @@
 
 		<item>
 		<title><![CDATA[Sample Page]]></title>
-		<link>https://playground.wordpress.net/scope:0.7767222833592975/?page_id=2</link>
+		<link>https://playground.wordpress.net/scope:0.2973549087552592/?page_id=2</link>
 		<pubDate>Mon, 10 Jun 2024 15:11:38 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://127.0.0.1:9400/?page_id=2</guid>
@@ -70,12 +70,12 @@
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2024-06-10 15:11:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-06-10 15:11:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-12 16:33:41]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-06-12 16:33:41]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-06-10 15:11:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-06-10 15:11:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
@@ -85,22 +85,10 @@
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1718210021]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[sample-page]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Privacy Policy]]></title>
-		<link>https://playground.wordpress.net/scope:0.7767222833592975/?page_id=3</link>
+		<link>https://playground.wordpress.net/scope:0.2973549087552592/?page_id=3</link>
 		<pubDate>Mon, 10 Jun 2024 15:11:38 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://127.0.0.1:9400/?page_id=3</guid>
@@ -182,12 +170,12 @@
 		<wp:post_id>3</wp:post_id>
 		<wp:post_date><![CDATA[2024-06-10 15:11:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-06-10 15:11:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-12 16:33:41]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-06-12 16:33:41]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-06-10 15:11:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-06-10 15:11:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[privacy-policy__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
@@ -197,22 +185,10 @@
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[draft]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1718210021]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[privacy-policy]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Home]]></title>
-		<link>https://playground.wordpress.net/scope:0.7767222833592975/?page_id=9</link>
+		<link>https://playground.wordpress.net/scope:0.2973549087552592/?page_id=9</link>
 		<pubDate>Wed, 12 Jun 2024 16:17:53 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.7767222833592975/?page_id=9</guid>
@@ -522,8 +498,8 @@
 		<wp:post_id>9</wp:post_id>
 		<wp:post_date><![CDATA[2024-06-12 16:17:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-06-12 16:17:53]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-12 16:33:41]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-06-12 16:33:41]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-06-12 16:17:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-06-12 16:17:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home__trashed]]></wp:post_name>
@@ -545,10 +521,14 @@
 		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[home]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Pie Calendar - Start Here!]]></title>
-		<link>https://playground.wordpress.net/scope:0.7767222833592975/?page_id=13</link>
+		<link>https://playground.wordpress.net/scope:0.2973549087552592/?page_id=13</link>
 		<pubDate>Wed, 12 Jun 2024 16:35:38 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.7767222833592975/?page_id=13</guid>
@@ -559,7 +539,7 @@
 
 <!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li>Select the page tab in the right sidebar of this page</li>
+<li>Select the "Page" tab in the right sidebar of this page</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -571,7 +551,7 @@
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Optionally, set an end date and time.</li>
+<li>Optionally, set an end date and time</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -580,18 +560,22 @@
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>Visit any page and add the [piecal] shortcode.</p>
+<p>Visit any page and add the [[piecal]] shortcode. Or, just <a href="https://playground.wordpress.net/scope:0.2973549087552592/?page_id=13" data-type="page" data-id="13">view this page on the front-end</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p>Your event is now visible on the front-end calendar!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>[piecal]</p>
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>13</wp:post_id>
 		<wp:post_date><![CDATA[2024-06-12 16:35:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-06-12 16:35:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-12 16:35:38]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-06-12 16:35:38]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-06-12 16:49:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-06-12 16:49:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pie-calendar-start-here]]></wp:post_name>
@@ -602,8 +586,248 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Home]]></title>
+		<link>https://playground.wordpress.net/scope:0.2973549087552592/?page_id=18</link>
+		<pubDate>Wed, 12 Jun 2024 16:45:05 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.2973549087552592/?page_id=18</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>18</wp:post_id>
+		<wp:post_date><![CDATA[2024-06-12 16:45:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-06-12 16:45:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-06-12 16:45:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-06-12 16:45:05]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+																<item>
+		<title><![CDATA[Hello world!]]></title>
+		<link>https://playground.wordpress.net/scope:0.2973549087552592/?p=1</link>
+		<pubDate>Mon, 10 Jun 2024 15:11:38 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://127.0.0.1:9400/?p=1</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1</wp:post_id>
+		<wp:post_date><![CDATA[2024-06-10 15:11:38]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-06-10 15:11:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-06-12 16:51:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-06-12 16:51:13]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[hello-world__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1718211073]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:comment>
+			<wp:comment_id>1</wp:comment_id>
+			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
+			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2024-06-10 15:11:38]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2024-06-10 15:11:38]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hi, this is a comment.
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
+Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
+					<item>
+		<title><![CDATA[Multi-Day Event]]></title>
+		<link>https://playground.wordpress.net/scope:0.2973549087552592/?p=23</link>
+		<pubDate>Wed, 12 Jun 2024 16:53:10 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.2973549087552592/?p=23</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>This post spans multiple days.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>23</wp:post_id>
+		<wp:post_date><![CDATA[2024-06-12 16:53:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-06-12 16:53:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-06-12 16:53:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-06-12 16:53:10]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[multi-day-event]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_piecal_is_event]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_piecal_start_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-06-04T09:00:00]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_piecal_end_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-06-06T17:00:00]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_piecal_is_allday]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Add Day Event]]></title>
+		<link>https://playground.wordpress.net/scope:0.2973549087552592/?p=25</link>
+		<pubDate>Wed, 12 Jun 2024 16:53:56 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.2973549087552592/?p=25</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>All Day events don't display the time. Great for holidays or business closures, for example.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>All Day events can also span multiple days.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>25</wp:post_id>
+		<wp:post_date><![CDATA[2024-06-12 16:53:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-06-12 16:53:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-06-12 16:57:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-06-12 16:57:58]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[add-day-event]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_piecal_is_event]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_piecal_start_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-06-17T10:00:00]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_piecal_end_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_piecal_is_allday]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Single Day Event]]></title>
+		<link>https://playground.wordpress.net/scope:0.2973549087552592/?p=27</link>
+		<pubDate>Wed, 12 Jun 2024 16:55:18 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.2973549087552592/?p=27</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Just a simple single day event with no end-time. Good for events that have a specific start time, but where end time isn't required. </p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>27</wp:post_id>
+		<wp:post_date><![CDATA[2024-06-12 16:55:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-06-12 16:55:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-06-12 16:55:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-06-12 16:55:18]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[single-day-event]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_piecal_is_event]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_piecal_start_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-06-20T11:30:00]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_piecal_end_date]]></wp:meta_key>
