@@ -538,7 +538,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>We've already installed Pie Calendar for you. To get started, follow the steps below:</p>
+<p>We've already installed the Pie Calendar for you. To get started, follow the steps below:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -564,11 +564,11 @@
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>Visit any page and add the [[piecal]] shortcode. Or, just <a href="https://playground.wordpress.net/scope:0.2973549087552592/?page_id=13" data-type="page" data-id="13">view this page on the front-end</a>.</p>
+<p>Visit any page and add the [[piecal]] shortcode. Or, just view the Home page on the front-end (we've already added it there for you).</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Note</strong>: Featured such as recurring events, add to calendar links, adaptive time zones, and more are available in Pie Calendar Pro. <a href="https://piecalendar.com/?source=playground" data-type="link" data-id="https://piecalendar.com/?source=playground" target="_blank" rel="noreferrer noopener">Click here to learn more >></a></p>
+<p><strong>Note</strong>: Featured such as recurring events, add to calendar links, adaptive time zones, and more are available in Pie Calendar Pro. <a href="https://piecalendar.com/?source=playground" data-type="link" data-id="https://piecalendar.com/?source=playground" target="_blank" rel="noreferrer noopener">Click here to learn more &gt;&gt;</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
